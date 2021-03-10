@@ -1,0 +1,12 @@
+
+/* 
+    Created on : May 27, 2017, 9:57:54 PM
+    Author     : ashan nawarathna
+*/
+
+
+#showcase_block_grid_view_image{ height: 170px; max-height: 170px; width: 350px; overflow: hidden; display: block;}
+#featured_prodcut_block_grid_view_image{height: 110px;max-height: 110px; overflow: hidden;display: block;}
+#showcase_block_name{height: 50px; overflow: hidden;}
+
+

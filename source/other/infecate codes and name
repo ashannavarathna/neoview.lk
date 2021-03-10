@@ -1,0 +1,5 @@
+admin panel :
+    product_list.php        :   10200
+    product_manange.php     :   10201 
+    index                   :   10202
+    add_new_product         :   10203
